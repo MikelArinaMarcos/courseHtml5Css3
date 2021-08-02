@@ -4,9 +4,13 @@ h1 {
 
 /* Esto es un comentario */
 p {
-    color: blueviolet;
+    color: gray;
 }
 
 .mandarina {
     color: darkorange;
+}
+
+.azul {
+    color: blue;
 }
