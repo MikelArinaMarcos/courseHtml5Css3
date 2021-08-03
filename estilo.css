@@ -11,6 +11,10 @@ p {
     color: gray;
 }
 
+p strong {
+    color:red;
+}
+
 .mandarina {
     color: darkorange;
 }
@@ -27,10 +31,10 @@ h2 {
     font-size: 20px;
 }
 
-h3 {
-    font-size: 10px;
+h2 strong {
+    color:mediumblue;
 }
 
-strong {
-    font-size: 50px;
+h3 {
+    font-size: 10px;
 }
