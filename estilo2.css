@@ -2,7 +2,7 @@ h1 {
     text-align: center;
     color: blue;
     text-decoration: underline;
-    font-size: x-large;
+    font-size: 4em;
 }
 
 h2 {
@@ -17,10 +17,10 @@ h3 {
 
 p {
     text-align: justify;
-    font-size: small;
+    font-size: 1em;
 }
 
 a {
     text-decoration: none;
-    font-size: large;
+    font-size: 2em;
 }
